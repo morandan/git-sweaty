@@ -1,15 +1,6 @@
 {
   "activities": [
     {
-      "date": "2018-05-16",
-      "hour": 18,
-      "name": "1st Ride",
-      "subtype": "Ride",
-      "type": "Ride",
-      "url": "https://www.strava.com/activities/1576284046",
-      "year": 2018
-    },
-    {
       "date": "2022-01-12",
       "hour": 15,
       "name": "Afternoon Run",
