@@ -1,15 +1,6 @@
 {
   "activities": [
     {
-      "date": "2018-05-16",
-      "hour": 18,
-      "name": "1st Ride",
-      "subtype": "Ride",
-      "type": "Ride",
-      "url": "https://www.strava.com/activities/1576284046",
-      "year": 2018
-    },
-    {
       "date": "2022-01-12",
       "hour": 15,
       "name": "Afternoon Run",
@@ -12338,22 +12329,36 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/17930777017",
       "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17940590187",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17941458993",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-01",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17941617411",
+      "year": 2026
     }
   ],
   "aggregates": {
-    "2018": {
-      "Ride": {
-        "2018-05-16": {
-          "activity_ids": [
-            "1576284046"
-          ],
-          "count": 1,
-          "distance": 9086.9,
-          "elevation_gain": 72.6,
-          "moving_time": 2289.0
-        }
-      }
-    },
     "2022": {
       "Run": {
         "2022-01-12": {
@@ -23532,6 +23537,16 @@
           "distance": 5008.3,
           "elevation_gain": 57.8,
           "moving_time": 1580.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17940590187",
+            "17941617411"
+          ],
+          "count": 2,
+          "distance": 4027.0,
+          "elevation_gain": 31.0,
+          "moving_time": 1153.0
         }
       },
       "Swim": {
@@ -24447,11 +24462,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3123.0
+        },
+        "2026-04-01": {
+          "activity_ids": [
+            "17941458993"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3329.0
         }
       }
     }
   },
-  "generated_at": "2026-04-01T16:56:22.713730+00:00",
+  "generated_at": "2026-04-01T18:51:23.766474+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
@@ -24490,10 +24514,6 @@
   },
   "week_start": "monday",
   "years": [
-    2018,
-    2019,
-    2020,
-    2021,
     2022,
     2023,
     2024,

@@ -1,18 +1,5 @@
 [
   {
-    "date": "2018-05-16",
-    "distance": 9086.9,
-    "elevation_gain": 72.6,
-    "id": "1576284046",
-    "moving_time": 2289.0,
-    "name": "1st Ride",
-    "raw_activity_type": "Ride",
-    "raw_type": "Ride",
-    "start_date_local": "2018-05-16T18:29:41Z",
-    "type": "Ride",
-    "year": 2018
-  },
-  {
     "date": "2022-01-12",
     "distance": 5656.0,
     "elevation_gain": 49.8,
@@ -17820,6 +17807,45 @@
     "raw_type": "Walk",
     "start_date_local": "2026-03-31T22:23:22Z",
     "type": "Walk",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 2010.5,
+    "elevation_gain": 0.0,
+    "id": "17940590187",
+    "moving_time": 543.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T18:18:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17941458993",
+    "moving_time": 3329.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-01T18:34:51Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-01",
+    "distance": 2016.5,
+    "elevation_gain": 31.0,
+    "id": "17941617411",
+    "moving_time": 610.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-01T19:32:07Z",
+    "type": "Run",
     "year": 2026
   }
 ]
