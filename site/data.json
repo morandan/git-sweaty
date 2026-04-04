@@ -9928,12 +9928,66 @@
       "year": 2025
     },
     {
+      "date": "2025-03-26",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977460995",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-02",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977469230",
+      "year": 2025
+    },
+    {
       "date": "2025-04-06",
       "hour": 17,
       "name": "Afternoon Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/14099888061",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-09",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977476020",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-16",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977481249",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-23",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977485352",
+      "year": 2025
+    },
+    {
+      "date": "2025-04-30",
+      "hour": 12,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/17977490698",
       "year": 2025
     },
     {
@@ -23333,6 +23387,60 @@
         }
       },
       "Workout": {
+        "2025-03-26": {
+          "activity_ids": [
+            "17977460995"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-04-02": {
+          "activity_ids": [
+            "17977469230"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-04-09": {
+          "activity_ids": [
+            "17977476020"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-04-16": {
+          "activity_ids": [
+            "17977481249"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-04-23": {
+          "activity_ids": [
+            "17977485352"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2025-04-30": {
+          "activity_ids": [
+            "17977490698"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
         "2025-10-29": {
           "activity_ids": [
             "16295576483"
@@ -24511,7 +24619,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T13:12:57.391618+00:00",
+  "generated_at": "2026-04-04T16:24:16.438899+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
