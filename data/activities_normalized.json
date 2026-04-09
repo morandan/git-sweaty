@@ -18029,5 +18029,18 @@
     "start_date_local": "2026-04-08T18:34:08Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-04-09",
+    "distance": 20113.2,
+    "elevation_gain": 97.9,
+    "id": "18038739591",
+    "moving_time": 3099.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-09T10:40:54Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
