@@ -12581,6 +12581,15 @@
       "type": "Workout",
       "url": "https://www.strava.com/activities/18122340757",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18137825610",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -23907,6 +23916,15 @@
           "distance": 5010.4,
           "elevation_gain": 37.6,
           "moving_time": 1583.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18137825610"
+          ],
+          "count": 1,
+          "distance": 6067.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1887.0
         }
       },
       "Swim": {
@@ -24925,7 +24943,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T21:52:53.059227+00:00",
+  "generated_at": "2026-04-16T22:43:18.520478+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
