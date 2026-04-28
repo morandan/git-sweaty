@@ -12716,6 +12716,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18281967855",
       "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 19,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18297277142",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24856,6 +24865,15 @@
           "distance": 7254.0,
           "elevation_gain": 42.1,
           "moving_time": 3798.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18297277142"
+          ],
+          "count": 1,
+          "distance": 7186.2,
+          "elevation_gain": 46.8,
+          "moving_time": 3736.0
         }
       },
       "Workout": {
@@ -25195,7 +25213,7 @@
       }
     }
   },
-  "generated_at": "2026-04-28T03:53:20.684035+00:00",
+  "generated_at": "2026-04-28T22:05:58.765516+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
