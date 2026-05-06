@@ -18484,5 +18484,18 @@
     "start_date_local": "2026-05-05T19:19:02Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18404922779",
+    "moving_time": 2880.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-06T18:32:13Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
