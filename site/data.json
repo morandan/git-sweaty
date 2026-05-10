@@ -12833,6 +12833,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18442908558",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18454116072",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24285,6 +24294,15 @@
           "distance": 10021.4,
           "elevation_gain": 0.0,
           "moving_time": 2812.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18454116072"
+          ],
+          "count": 1,
+          "distance": 7511.5,
+          "elevation_gain": 0.0,
+          "moving_time": 2075.0
         }
       },
       "Swim": {
@@ -25429,7 +25447,7 @@
       }
     }
   },
-  "generated_at": "2026-05-10T13:45:17.669832+00:00",
+  "generated_at": "2026-05-10T21:55:36.037861+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
