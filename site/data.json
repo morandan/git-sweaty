@@ -13130,6 +13130,33 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/18813269769",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18819591362",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 13,
+      "name": "Afternoon Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/18823990878",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 11,
+      "name": "Lunch Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18823990886",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -24754,6 +24781,15 @@
           "distance": 5014.3,
           "elevation_gain": 39.5,
           "moving_time": 1452.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18819591362"
+          ],
+          "count": 1,
+          "distance": 5326.7,
+          "elevation_gain": 10.8,
+          "moving_time": 1569.0
         }
       },
       "Swim": {
@@ -24963,6 +24999,15 @@
           "distance": 1075.0,
           "elevation_gain": 0.0,
           "moving_time": 1304.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18823990878"
+          ],
+          "count": 1,
+          "distance": 1250.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1676.0
         }
       },
       "Walk": {
@@ -26011,11 +26056,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3101.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18823990886"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3312.0
         }
       }
     }
   },
-  "generated_at": "2026-06-07T04:44:58.212856+00:00",
+  "generated_at": "2026-06-07T22:12:03.722137+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
