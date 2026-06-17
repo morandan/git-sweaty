@@ -19160,5 +19160,18 @@
     "start_date_local": "2026-06-15T18:33:27Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 8034.2,
+    "elevation_gain": 52.9,
+    "id": "18947878354",
+    "moving_time": 2402.0,
+    "name": "Wirral Summer Trail Series 2026 June",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T19:00:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
