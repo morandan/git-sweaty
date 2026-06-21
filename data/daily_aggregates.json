@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T05:03:47.280801+00:00",
+  "generated_at": "2026-06-21T14:26:08.203546+00:00",
   "years": {
     "2022": {
       "Run": {
@@ -11975,6 +11975,15 @@
           "distance": 2000.0,
           "elevation_gain": 0.0,
           "moving_time": 2510.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19006140914"
+          ],
+          "count": 1,
+          "distance": 1500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1947.0
         }
       },
       "Walk": {
@@ -13077,6 +13086,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2896.0
+        },
+        "2026-06-21": {
+          "activity_ids": [
+            "19006153058"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1801.0
         }
       }
     }
