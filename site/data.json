@@ -13472,6 +13472,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19097213149",
       "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19113613064",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-29",
+      "hour": 20,
+      "name": "Evening Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/19114955294",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25277,6 +25295,15 @@
           "distance": 10042.7,
           "elevation_gain": 11.5,
           "moving_time": 2825.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19113613064"
+          ],
+          "count": 1,
+          "distance": 5516.7,
+          "elevation_gain": 15.9,
+          "moving_time": 1607.0
         }
       },
       "Swim": {
@@ -25531,6 +25558,15 @@
           "distance": 2500.0,
           "elevation_gain": 0.0,
           "moving_time": 3333.0
+        },
+        "2026-06-29": {
+          "activity_ids": [
+            "19114955294"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2638.0
         }
       },
       "Walk": {
@@ -26691,7 +26727,7 @@
       }
     }
   },
-  "generated_at": "2026-06-29T16:00:47.735471+00:00",
+  "generated_at": "2026-06-29T22:15:18.730626+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
