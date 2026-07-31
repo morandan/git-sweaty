@@ -13832,6 +13832,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19533412825",
       "year": 2026
+    },
+    {
+      "date": "2026-07-31",
+      "hour": 11,
+      "name": "Lunch Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19541325019",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25862,6 +25871,15 @@
           "distance": 5012.7,
           "elevation_gain": 40.0,
           "moving_time": 1427.0
+        },
+        "2026-07-31": {
+          "activity_ids": [
+            "19541325019"
+          ],
+          "count": 1,
+          "distance": 10158.1,
+          "elevation_gain": 61.0,
+          "moving_time": 2941.0
         }
       },
       "Swim": {
@@ -27411,7 +27429,7 @@
       }
     }
   },
-  "generated_at": "2026-07-30T23:10:43.410094+00:00",
+  "generated_at": "2026-07-31T23:03:52.734071+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
