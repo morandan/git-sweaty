@@ -14030,6 +14030,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/19778646318",
       "year": 2026
+    },
+    {
+      "date": "2026-08-18",
+      "hour": 19,
+      "name": "Wirral Summer Trail Series 2026 August",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19798426136",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26177,6 +26186,15 @@
           "distance": 5011.7,
           "elevation_gain": 36.0,
           "moving_time": 1611.0
+        },
+        "2026-08-18": {
+          "activity_ids": [
+            "19798426136"
+          ],
+          "count": 1,
+          "distance": 8046.8,
+          "elevation_gain": 57.0,
+          "moving_time": 2323.0
         }
       },
       "Swim": {
@@ -27807,7 +27825,7 @@
       }
     }
   },
-  "generated_at": "2026-08-17T22:27:29.473679+00:00",
+  "generated_at": "2026-08-18T22:26:07.317990+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",

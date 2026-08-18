@@ -20265,5 +20265,18 @@
     "start_date_local": "2026-08-17T12:00:18Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-08-18",
+    "distance": 8046.8,
+    "elevation_gain": 57.0,
+    "id": "19798426136",
+    "moving_time": 2323.0,
+    "name": "Wirral Summer Trail Series 2026 August",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-18T19:01:03Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
