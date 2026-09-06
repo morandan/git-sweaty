@@ -14237,6 +14237,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20051113622",
       "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 9,
+      "name": "Triathlon Y Bala 70.3 2026: Swim",
+      "subtype": "Swim",
+      "type": "Swim",
+      "url": "https://www.strava.com/activities/20057482467",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 10,
+      "name": "Triathlon Y Bala 70.3 2026: Bike",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20061675139",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-06",
+      "hour": 14,
+      "name": "Triathlon Y Bala 70.3 2026: Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20063658414",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25631,6 +25658,15 @@
           "distance": 20112.9,
           "elevation_gain": 112.0,
           "moving_time": 2687.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20061675139"
+          ],
+          "count": 1,
+          "distance": 87329.6,
+          "elevation_gain": 1207.0,
+          "moving_time": 14457.0
         }
       },
       "Run": {
@@ -26465,6 +26501,15 @@
           "distance": 5608.7,
           "elevation_gain": 59.0,
           "moving_time": 1908.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20063658414"
+          ],
+          "count": 1,
+          "distance": 19247.8,
+          "elevation_gain": 111.0,
+          "moving_time": 7510.0
         }
       },
       "Swim": {
@@ -26782,6 +26827,15 @@
           "distance": 904.2,
           "elevation_gain": 0.0,
           "moving_time": 1579.0
+        },
+        "2026-09-06": {
+          "activity_ids": [
+            "20057482467"
+          ],
+          "count": 1,
+          "distance": 1889.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3159.0
         }
       },
       "Walk": {
@@ -28221,7 +28275,7 @@
       }
     }
   },
-  "generated_at": "2026-09-05T23:37:40.227736+00:00",
+  "generated_at": "2026-09-06T23:36:22.507779+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
