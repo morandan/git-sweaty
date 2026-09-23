@@ -14426,6 +14426,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20270999563",
       "year": 2026
+    },
+    {
+      "date": "2026-09-22",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20280653949",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -25847,6 +25856,15 @@
           "distance": 25173.3,
           "elevation_gain": 91.0,
           "moving_time": 3601.0
+        },
+        "2026-09-22": {
+          "activity_ids": [
+            "20280653949"
+          ],
+          "count": 1,
+          "distance": 25184.4,
+          "elevation_gain": 75.0,
+          "moving_time": 3372.0
         }
       },
       "Run": {
@@ -28599,7 +28617,7 @@
       }
     }
   },
-  "generated_at": "2026-09-22T00:39:04.548607+00:00",
+  "generated_at": "2026-09-23T00:07:33.189576+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
