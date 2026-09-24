@@ -20850,5 +20850,31 @@
     "start_date_local": "2026-09-22T12:05:58Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20300677942",
+    "moving_time": 3181.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-23T18:33:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-23",
+    "distance": 6011.8,
+    "elevation_gain": 47.0,
+    "id": "20301746063",
+    "moving_time": 1701.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-23T20:22:47Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
