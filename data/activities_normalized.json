@@ -21019,5 +21019,44 @@
     "start_date_local": "2026-10-03T09:06:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 8009.4,
+    "elevation_gain": 12.0,
+    "id": "20445545983",
+    "moving_time": 991.0,
+    "name": "Zwift - FTP Ramp Test - 212",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-04T11:36:59Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 13063.2,
+    "elevation_gain": 48.0,
+    "id": "20446014356",
+    "moving_time": 1532.0,
+    "name": "Zwift - Beach Island Loop in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-04T11:55:08Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 5129.6,
+    "elevation_gain": 57.0,
+    "id": "20452274957",
+    "moving_time": 2731.0,
+    "name": "Evening Walk",
+    "raw_activity_type": "Walk",
+    "raw_type": "Walk",
+    "start_date_local": "2026-10-04T18:46:39Z",
+    "type": "Walk",
+    "year": 2026
   }
 ]

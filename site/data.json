@@ -14552,6 +14552,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20429750806",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "Zwift - FTP Ramp Test - 212",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20445545983",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "Zwift - Beach Island Loop in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20446014356",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20452274957",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27315,6 +27342,18 @@
           "moving_time": 2595.0
         }
       },
+      "VirtualRide": {
+        "2026-10-04": {
+          "activity_ids": [
+            "20445545983",
+            "20446014356"
+          ],
+          "count": 2,
+          "distance": 21072.6,
+          "elevation_gain": 60.0,
+          "moving_time": 2523.0
+        }
+      },
       "Walk": {
         "2026-01-03": {
           "activity_ids": [
@@ -28233,6 +28272,15 @@
           "distance": 5286.7,
           "elevation_gain": 44.0,
           "moving_time": 2865.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20452274957"
+          ],
+          "count": 1,
+          "distance": 5129.6,
+          "elevation_gain": 57.0,
+          "moving_time": 2731.0
         }
       },
       "Workout": {
@@ -28851,7 +28899,7 @@
       }
     }
   },
-  "generated_at": "2026-10-04T00:24:10.868504+00:00",
+  "generated_at": "2026-10-05T00:32:37.583021+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
@@ -28868,6 +28916,10 @@
       "accent": "#3a86ff",
       "label": "Swim"
     },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
     "Walk": {
       "accent": "#d6ff6b",
       "label": "Walk"
@@ -28881,6 +28933,7 @@
     "Ride",
     "Run",
     "Swim",
+    "VirtualRide",
     "Walk",
     "Workout"
   ],

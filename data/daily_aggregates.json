@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:24:10.845488+00:00",
+  "generated_at": "2026-10-05T00:32:37.558859+00:00",
   "years": {
     "2022": {
       "Run": {
@@ -12761,6 +12761,18 @@
           "moving_time": 2595.0
         }
       },
+      "VirtualRide": {
+        "2026-10-04": {
+          "activity_ids": [
+            "20445545983",
+            "20446014356"
+          ],
+          "count": 2,
+          "distance": 21072.6,
+          "elevation_gain": 60.0,
+          "moving_time": 2523.0
+        }
+      },
       "Walk": {
         "2026-01-03": {
           "activity_ids": [
@@ -13679,6 +13691,15 @@
           "distance": 5286.7,
           "elevation_gain": 44.0,
           "moving_time": 2865.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "20452274957"
+          ],
+          "count": 1,
+          "distance": 5129.6,
+          "elevation_gain": 57.0,
+          "moving_time": 2731.0
         }
       },
       "Workout": {
