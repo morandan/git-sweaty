@@ -14579,6 +14579,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20452274957",
       "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/20459035404",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20463878205",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -26027,6 +26045,15 @@
           "distance": 20096.7,
           "elevation_gain": 75.0,
           "moving_time": 2789.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20459035404"
+          ],
+          "count": 1,
+          "distance": 20023.3,
+          "elevation_gain": 71.0,
+          "moving_time": 2726.0
         }
       },
       "Run": {
@@ -26969,6 +26996,15 @@
           "distance": 12008.3,
           "elevation_gain": 40.0,
           "moving_time": 3866.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "20463878205"
+          ],
+          "count": 1,
+          "distance": 5658.7,
+          "elevation_gain": 54.0,
+          "moving_time": 1875.0
         }
       },
       "Swim": {
@@ -28899,7 +28935,7 @@
       }
     }
   },
-  "generated_at": "2026-10-05T00:32:37.583021+00:00",
+  "generated_at": "2026-10-06T02:07:13.042198+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
