@@ -14606,6 +14606,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20478761041",
       "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20492913620",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 19,
+      "name": "Zwift - Sevens",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20493489493",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27406,6 +27424,15 @@
           "distance": 21072.6,
           "elevation_gain": 60.0,
           "moving_time": 2523.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20493489493"
+          ],
+          "count": 1,
+          "distance": 15844.8,
+          "elevation_gain": 55.0,
+          "moving_time": 1822.0
         }
       },
       "Walk": {
@@ -28949,11 +28976,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3021.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "20492913620"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3270.0
         }
       }
     }
   },
-  "generated_at": "2026-10-07T01:15:28.418137+00:00",
+  "generated_at": "2026-10-08T01:37:08.719982+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",

@@ -21097,5 +21097,31 @@
     "start_date_local": "2026-10-06T18:35:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20492913620",
+    "moving_time": 3270.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-07T18:32:33Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 15844.8,
+    "elevation_gain": 55.0,
+    "id": "20493489493",
+    "moving_time": 1822.0,
+    "name": "Zwift - Sevens",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-07T19:46:33Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
