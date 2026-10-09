@@ -21123,5 +21123,18 @@
     "start_date_local": "2026-10-07T19:46:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 17288.0,
+    "elevation_gain": 138.0,
+    "id": "20506276275",
+    "moving_time": 2122.0,
+    "name": "Zwift - Half Hour of Power",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-08T18:54:39Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
