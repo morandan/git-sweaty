@@ -14651,6 +14651,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20529270734",
       "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 13,
+      "name": "Zwift - Lactate Shuttle Short",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20541866988",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-11",
+      "hour": 17,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20545134551",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27478,6 +27496,15 @@
           "distance": 17288.0,
           "elevation_gain": 138.0,
           "moving_time": 2122.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20541866988"
+          ],
+          "count": 1,
+          "distance": 15618.0,
+          "elevation_gain": 181.0,
+          "moving_time": 1829.0
         }
       },
       "Walk": {
@@ -28416,6 +28443,15 @@
           "distance": 5008.1,
           "elevation_gain": 72.0,
           "moving_time": 2540.0
+        },
+        "2026-10-11": {
+          "activity_ids": [
+            "20545134551"
+          ],
+          "count": 1,
+          "distance": 5009.2,
+          "elevation_gain": 58.0,
+          "moving_time": 2714.0
         }
       },
       "Workout": {
@@ -29043,7 +29079,7 @@
       }
     }
   },
-  "generated_at": "2026-10-11T00:43:52.530909+00:00",
+  "generated_at": "2026-10-12T01:05:05.609493+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
