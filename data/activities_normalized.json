@@ -21188,5 +21188,31 @@
     "start_date_local": "2026-10-11T17:12:00Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 5758.5,
+    "elevation_gain": 38.0,
+    "id": "20557894459",
+    "moving_time": 1904.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-12T18:33:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-12",
+    "distance": 16542.4,
+    "elevation_gain": 83.0,
+    "id": "20558601592",
+    "moving_time": 1819.0,
+    "name": "Zwift - Emily's Short Mix",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-12T19:32:52Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

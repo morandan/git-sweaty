@@ -14669,6 +14669,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20545134551",
       "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20557894459",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-12",
+      "hour": 19,
+      "name": "Zwift - Emily's Short Mix",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20558601592",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27095,6 +27113,15 @@
           "distance": 7008.3,
           "elevation_gain": 59.0,
           "moving_time": 2036.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20557894459"
+          ],
+          "count": 1,
+          "distance": 5758.5,
+          "elevation_gain": 38.0,
+          "moving_time": 1904.0
         }
       },
       "Swim": {
@@ -27505,6 +27532,15 @@
           "distance": 15618.0,
           "elevation_gain": 181.0,
           "moving_time": 1829.0
+        },
+        "2026-10-12": {
+          "activity_ids": [
+            "20558601592"
+          ],
+          "count": 1,
+          "distance": 16542.4,
+          "elevation_gain": 83.0,
+          "moving_time": 1819.0
         }
       },
       "Walk": {
@@ -29079,7 +29115,7 @@
       }
     }
   },
-  "generated_at": "2026-10-12T01:05:05.609493+00:00",
+  "generated_at": "2026-10-13T02:54:28.489514+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
