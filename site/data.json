@@ -14696,6 +14696,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20567260839",
       "year": 2026
+    },
+    {
+      "date": "2026-10-14",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20585943248",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-14",
+      "hour": 19,
+      "name": "Zwift - Calorie Crush",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20586666840",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27550,6 +27568,15 @@
           "distance": 16542.4,
           "elevation_gain": 83.0,
           "moving_time": 1819.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "20586666840"
+          ],
+          "count": 1,
+          "distance": 12459.0,
+          "elevation_gain": 149.0,
+          "moving_time": 1507.0
         }
       },
       "Walk": {
@@ -29129,11 +29156,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 3270.0
+        },
+        "2026-10-14": {
+          "activity_ids": [
+            "20585943248"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2820.0
         }
       }
     }
   },
-  "generated_at": "2026-10-14T00:57:00.138926+00:00",
+  "generated_at": "2026-10-15T00:20:20.354371+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",

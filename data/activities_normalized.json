@@ -21227,5 +21227,31 @@
     "start_date_local": "2026-10-13T12:44:35Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20585943248",
+    "moving_time": 2820.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-10-14T18:31:29Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-14",
+    "distance": 12459.0,
+    "elevation_gain": 149.0,
+    "id": "20586666840",
+    "moving_time": 1507.0,
+    "name": "Zwift - Calorie Crush",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-10-14T19:56:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
