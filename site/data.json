@@ -14714,6 +14714,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20586666840",
       "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 20,
+      "name": "Zwift - Turn Up The Heat",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20600507963",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27577,6 +27586,15 @@
           "distance": 12459.0,
           "elevation_gain": 149.0,
           "moving_time": 1507.0
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "20600507963"
+          ],
+          "count": 1,
+          "distance": 13916.3,
+          "elevation_gain": 102.0,
+          "moving_time": 1801.0
         }
       },
       "Walk": {
@@ -29169,7 +29187,7 @@
       }
     }
   },
-  "generated_at": "2026-10-15T00:20:20.354371+00:00",
+  "generated_at": "2026-10-16T00:08:22.069845+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
