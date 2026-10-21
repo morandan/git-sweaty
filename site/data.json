@@ -14768,6 +14768,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20650655041",
       "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20660118728",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-20",
+      "hour": 20,
+      "name": "Zwift - Watopia Volcano Circuit",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20666089193",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27667,6 +27685,15 @@
           "distance": 13916.3,
           "elevation_gain": 102.0,
           "moving_time": 1801.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20666089193"
+          ],
+          "count": 1,
+          "distance": 29263.5,
+          "elevation_gain": 57.0,
+          "moving_time": 3194.0
         }
       },
       "Walk": {
@@ -28641,6 +28668,15 @@
           "distance": 6010.6,
           "elevation_gain": 62.0,
           "moving_time": 3256.0
+        },
+        "2026-10-20": {
+          "activity_ids": [
+            "20660118728"
+          ],
+          "count": 1,
+          "distance": 5256.0,
+          "elevation_gain": 35.0,
+          "moving_time": 2899.0
         }
       },
       "Workout": {
@@ -29277,7 +29313,7 @@
       }
     }
   },
-  "generated_at": "2026-10-20T00:57:10.434785+00:00",
+  "generated_at": "2026-10-21T00:25:56.721810+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
