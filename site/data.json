@@ -14786,6 +14786,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20666089193",
       "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20673838498",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-21",
+      "hour": 18,
+      "name": "Evening Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/20678584500",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28677,6 +28695,15 @@
           "distance": 5256.0,
           "elevation_gain": 35.0,
           "moving_time": 2899.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20673838498"
+          ],
+          "count": 1,
+          "distance": 5012.9,
+          "elevation_gain": 71.0,
+          "moving_time": 2624.0
         }
       },
       "Workout": {
@@ -29309,11 +29336,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2820.0
+        },
+        "2026-10-21": {
+          "activity_ids": [
+            "20678584500"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2700.0
         }
       }
     }
   },
-  "generated_at": "2026-10-21T00:25:56.721810+00:00",
+  "generated_at": "2026-10-22T00:29:11.709557+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
