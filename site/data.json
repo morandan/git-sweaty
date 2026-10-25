@@ -14831,6 +14831,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20698596062",
       "year": 2026
+    },
+    {
+      "date": "2026-10-24",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20713107706",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28750,6 +28759,15 @@
           "distance": 5012.9,
           "elevation_gain": 71.0,
           "moving_time": 2624.0
+        },
+        "2026-10-24": {
+          "activity_ids": [
+            "20713107706"
+          ],
+          "count": 1,
+          "distance": 6226.5,
+          "elevation_gain": 86.0,
+          "moving_time": 3255.0
         }
       },
       "Workout": {
@@ -29395,7 +29413,7 @@
       }
     }
   },
-  "generated_at": "2026-10-24T00:22:25.883326+00:00",
+  "generated_at": "2026-10-25T00:05:07.381117+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
