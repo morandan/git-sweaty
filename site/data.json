@@ -14840,6 +14840,24 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20713107706",
       "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 15,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20728222415",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-25",
+      "hour": 17,
+      "name": "Zwift - Watts of the Wild in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20730162985",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27767,6 +27785,15 @@
           "distance": 18007.0,
           "elevation_gain": 139.0,
           "moving_time": 2086.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20730162985"
+          ],
+          "count": 1,
+          "distance": 42142.5,
+          "elevation_gain": 308.0,
+          "moving_time": 4735.0
         }
       },
       "Walk": {
@@ -28768,6 +28795,15 @@
           "distance": 6226.5,
           "elevation_gain": 86.0,
           "moving_time": 3255.0
+        },
+        "2026-10-25": {
+          "activity_ids": [
+            "20728222415"
+          ],
+          "count": 1,
+          "distance": 7006.6,
+          "elevation_gain": 219.0,
+          "moving_time": 3684.0
         }
       },
       "Workout": {
@@ -29413,7 +29449,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T00:05:07.381117+00:00",
+  "generated_at": "2026-10-25T22:04:35.450131+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
