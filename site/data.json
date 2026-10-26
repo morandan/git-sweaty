@@ -14858,6 +14858,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/20730162985",
       "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20741317925",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-26",
+      "hour": 19,
+      "name": "Zwift - Tick Tock in Watopia",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20742011894",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27329,6 +27347,15 @@
           "distance": 6017.6,
           "elevation_gain": 45.0,
           "moving_time": 2053.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20741317925"
+          ],
+          "count": 1,
+          "distance": 5645.1,
+          "elevation_gain": 37.0,
+          "moving_time": 1916.0
         }
       },
       "Swim": {
@@ -27794,6 +27821,15 @@
           "distance": 42142.5,
           "elevation_gain": 308.0,
           "moving_time": 4735.0
+        },
+        "2026-10-26": {
+          "activity_ids": [
+            "20742011894"
+          ],
+          "count": 1,
+          "distance": 20168.0,
+          "elevation_gain": 59.0,
+          "moving_time": 2150.0
         }
       },
       "Walk": {
@@ -29449,7 +29485,7 @@
       }
     }
   },
-  "generated_at": "2026-10-25T23:56:32.407576+00:00",
+  "generated_at": "2026-10-26T21:20:25.586673+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
