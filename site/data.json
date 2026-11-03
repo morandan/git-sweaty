@@ -14930,6 +14930,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20816998517",
       "year": 2026
+    },
+    {
+      "date": "2026-11-02",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20833195197",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27437,6 +27446,15 @@
           "distance": 21124.0,
           "elevation_gain": 72.0,
           "moving_time": 6332.0
+        },
+        "2026-11-02": {
+          "activity_ids": [
+            "20833195197"
+          ],
+          "count": 1,
+          "distance": 5119.6,
+          "elevation_gain": 34.0,
+          "moving_time": 1721.0
         }
       },
       "Swim": {
@@ -29593,7 +29611,7 @@
       }
     }
   },
-  "generated_at": "2026-11-02T01:20:37.367104+00:00",
+  "generated_at": "2026-11-03T03:21:30.055819+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
