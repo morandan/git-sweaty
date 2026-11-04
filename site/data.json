@@ -14939,6 +14939,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20833195197",
       "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 12,
+      "name": "Zwift - Glen Etive in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20841817491",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-03",
+      "hour": 12,
+      "name": "Zwift - Dolores Dirt in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/20842322769",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27938,6 +27956,16 @@
           "distance": 20168.0,
           "elevation_gain": 59.0,
           "moving_time": 2150.0
+        },
+        "2026-11-03": {
+          "activity_ids": [
+            "20841817491",
+            "20842322769"
+          ],
+          "count": 2,
+          "distance": 22077.6,
+          "elevation_gain": 131.0,
+          "moving_time": 2610.0
         }
       },
       "Walk": {
@@ -29611,7 +29639,7 @@
       }
     }
   },
-  "generated_at": "2026-11-03T03:21:30.055819+00:00",
+  "generated_at": "2026-11-04T01:59:14.360496+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",

@@ -21578,5 +21578,31 @@
     "start_date_local": "2026-11-02T18:33:04Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 6437.9,
+    "elevation_gain": 42.0,
+    "id": "20841817491",
+    "moving_time": 582.0,
+    "name": "Zwift - Glen Etive in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-03T12:17:17Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-03",
+    "distance": 15639.7,
+    "elevation_gain": 89.0,
+    "id": "20842322769",
+    "moving_time": 2028.0,
+    "name": "Zwift - Dolores Dirt in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-03T12:31:13Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
