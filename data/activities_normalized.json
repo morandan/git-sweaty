@@ -21604,5 +21604,31 @@
     "start_date_local": "2026-11-03T12:31:13Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 16918.3,
+    "elevation_gain": 191.0,
+    "id": "20856350973",
+    "moving_time": 2043.0,
+    "name": "Zwift - Clarence Drive in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-04T12:39:49Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20860930112",
+    "moving_time": 3360.0,
+    "name": "Evening Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-11-04T18:33:34Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
