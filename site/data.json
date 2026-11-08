@@ -14993,6 +14993,15 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20881996690",
       "year": 2026
+    },
+    {
+      "date": "2026-11-07",
+      "hour": 12,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20895257844",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -29048,6 +29057,15 @@
           "distance": 5307.4,
           "elevation_gain": 43.0,
           "moving_time": 3258.0
+        },
+        "2026-11-07": {
+          "activity_ids": [
+            "20895257844"
+          ],
+          "count": 1,
+          "distance": 5037.4,
+          "elevation_gain": 53.0,
+          "moving_time": 2839.0
         }
       },
       "Workout": {
@@ -29711,7 +29729,7 @@
       }
     }
   },
-  "generated_at": "2026-11-07T01:42:51.063570+00:00",
+  "generated_at": "2026-11-08T01:11:43.399737+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
