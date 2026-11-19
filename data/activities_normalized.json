@@ -21812,5 +21812,31 @@
     "start_date_local": "2026-11-17T19:15:52Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 11596.0,
+    "elevation_gain": 28.0,
+    "id": "21038782151",
+    "moving_time": 4313.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-18T18:33:22Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-18",
+    "distance": 11562.2,
+    "elevation_gain": 189.0,
+    "id": "21039972357",
+    "moving_time": 1546.0,
+    "name": "Zwift - Chapman's Peak in Video",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-18T21:29:28Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]

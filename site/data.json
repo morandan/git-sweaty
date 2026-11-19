@@ -15101,6 +15101,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21026003498",
       "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21038782151",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-18",
+      "hour": 21,
+      "name": "Zwift - Chapman's Peak in Video",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21039972357",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27635,6 +27653,15 @@
           "distance": 5663.0,
           "elevation_gain": 59.0,
           "moving_time": 1936.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21038782151"
+          ],
+          "count": 1,
+          "distance": 11596.0,
+          "elevation_gain": 28.0,
+          "moving_time": 4313.0
         }
       },
       "Swim": {
@@ -28155,6 +28182,15 @@
           "distance": 30204.2,
           "elevation_gain": 204.0,
           "moving_time": 3151.0
+        },
+        "2026-11-18": {
+          "activity_ids": [
+            "21039972357"
+          ],
+          "count": 1,
+          "distance": 11562.2,
+          "elevation_gain": 189.0,
+          "moving_time": 1546.0
         }
       },
       "Walk": {
@@ -29927,7 +29963,7 @@
       }
     }
   },
-  "generated_at": "2026-11-18T03:23:49.171867+00:00",
+  "generated_at": "2026-11-19T02:58:37.889355+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
