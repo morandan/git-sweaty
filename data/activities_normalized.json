@@ -21864,5 +21864,31 @@
     "start_date_local": "2026-11-20T12:21:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 3641.7,
+    "elevation_gain": 161.0,
+    "id": "21070243578",
+    "moving_time": 802.0,
+    "name": "Zwift - Climb Portal: C\u00f4te de la Redoute at 100% Elevation in France",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-21T12:33:42Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-21",
+    "distance": 19542.7,
+    "elevation_gain": 275.0,
+    "id": "21070840547",
+    "moving_time": 2744.0,
+    "name": "Zwift - Downtown Eruption in Watopia",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-21T12:48:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
