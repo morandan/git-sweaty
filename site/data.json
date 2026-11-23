@@ -15155,6 +15155,24 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/21070840547",
       "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 8,
+      "name": "Zwift - Zone Benchmarking",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21080107197",
+      "year": 2026
+    },
+    {
+      "date": "2026-11-22",
+      "hour": 9,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/21080962124",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -27707,6 +27725,15 @@
           "distance": 10345.5,
           "elevation_gain": 59.0,
           "moving_time": 3005.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21080962124"
+          ],
+          "count": 1,
+          "distance": 9021.0,
+          "elevation_gain": 48.0,
+          "moving_time": 2606.0
         }
       },
       "Swim": {
@@ -28246,6 +28273,15 @@
           "distance": 23184.4,
           "elevation_gain": 436.0,
           "moving_time": 3546.0
+        },
+        "2026-11-22": {
+          "activity_ids": [
+            "21080107197"
+          ],
+          "count": 1,
+          "distance": 13832.8,
+          "elevation_gain": 150.0,
+          "moving_time": 1811.0
         }
       },
       "Walk": {
@@ -30027,7 +30063,7 @@
       }
     }
   },
-  "generated_at": "2026-11-22T01:57:31.772501+00:00",
+  "generated_at": "2026-11-23T02:22:16.570654+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",

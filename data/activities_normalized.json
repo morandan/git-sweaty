@@ -21890,5 +21890,31 @@
     "start_date_local": "2026-11-21T12:48:14Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 13832.8,
+    "elevation_gain": 150.0,
+    "id": "21080107197",
+    "moving_time": 1811.0,
+    "name": "Zwift - Zone Benchmarking",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-11-22T08:55:27Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-11-22",
+    "distance": 9021.0,
+    "elevation_gain": 48.0,
+    "id": "21080962124",
+    "moving_time": 2606.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-11-22T09:34:54Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
