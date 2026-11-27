@@ -15209,6 +15209,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/21123870497",
       "year": 2026
+    },
+    {
+      "date": "2026-11-26",
+      "hour": 19,
+      "name": "Zwift - Sacr\u00e9 Trois! in Paris",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/21136242612",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -28346,6 +28355,15 @@
           "distance": 32802.7,
           "elevation_gain": 819.0,
           "moving_time": 5599.0
+        },
+        "2026-11-26": {
+          "activity_ids": [
+            "21136242612"
+          ],
+          "count": 1,
+          "distance": 24283.7,
+          "elevation_gain": 218.0,
+          "moving_time": 2749.0
         }
       },
       "Walk": {
@@ -30127,7 +30145,7 @@
       }
     }
   },
-  "generated_at": "2026-11-26T04:00:25.569897+00:00",
+  "generated_at": "2026-11-27T03:58:50.451321+00:00",
   "other_bucket": "OtherSports",
   "repo": "morandan/git-sweaty",
   "source": "strava",
